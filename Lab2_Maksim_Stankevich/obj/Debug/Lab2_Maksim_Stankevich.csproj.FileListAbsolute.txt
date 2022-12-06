@@ -1,0 +1,8 @@
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\bin\Debug\Lab2_Maksim_Stankevich.exe.config
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\bin\Debug\Lab2_Maksim_Stankevich.exe
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\bin\Debug\Lab2_Maksim_Stankevich.pdb
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\obj\Debug\Lab2_Maksim_Stankevich.csproj.AssemblyReference.cache
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\obj\Debug\Lab2_Maksim_Stankevich.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\obj\Debug\Lab2_Maksim_Stankevich.csproj.CoreCompileInputs.cache
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\obj\Debug\Lab2_Maksim_Stankevich.exe
+E:\Csharp\Lab2_Maksim_Stankevich\Lab2_Maksim_Stankevich\obj\Debug\Lab2_Maksim_Stankevich.pdb
